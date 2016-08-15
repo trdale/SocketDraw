@@ -1,0 +1,9 @@
+{
+  "name": "SocketDraw",
+  "description": "Socket Canvas via socket.io",
+  "author": "Tom Dale",
+  "dependencies": {
+    "express": "*",
+	"socket.io": "*"
+  }
+}
