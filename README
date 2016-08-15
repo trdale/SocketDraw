@@ -1,3 +1,5 @@
 This program lets you run a server, currently set on localhost:8000 where users can connect and draw on a canvas together via sockets.
 
 Currently there is no way to clear the board without restarting the server, this was a small experiment to get sockets working for a webpage and to learn canvas.
+
+To run the file, first NPM Install to get required modules, then run node server.js.  Then go to localhost:8000 in web browser.
